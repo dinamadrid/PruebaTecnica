@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marib\\Desktop\\pruebatecnica\\BancaAPI\\bancaAPI.csproj": {}
+    "C:\\Users\\marib\\Desktop\\pruebatecnica\\bancaAPI\\bancaAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marib\\Desktop\\pruebatecnica\\BancaAPI\\bancaAPI.csproj": {
+    "C:\\Users\\marib\\Desktop\\pruebatecnica\\bancaAPI\\bancaAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marib\\Desktop\\pruebatecnica\\BancaAPI\\bancaAPI.csproj",
+        "projectUniqueName": "C:\\Users\\marib\\Desktop\\pruebatecnica\\bancaAPI\\bancaAPI.csproj",
         "projectName": "bancaAPI",
-        "projectPath": "C:\\Users\\marib\\Desktop\\pruebatecnica\\BancaAPI\\bancaAPI.csproj",
+        "projectPath": "C:\\Users\\marib\\Desktop\\pruebatecnica\\bancaAPI\\bancaAPI.csproj",
         "packagesPath": "C:\\Users\\marib\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marib\\Desktop\\pruebatecnica\\BancaAPI\\obj\\",
+        "outputPath": "C:\\Users\\marib\\Desktop\\pruebatecnica\\bancaAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marib\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,6 +51,22 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.29, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
