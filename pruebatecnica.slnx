@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/BancaAPI.Tests/">
+    <Project Path="BancaAPI.Tests/BancaApi.Tests.csproj" />
+  </Folder>
+  <Project Path="BancaAPI/BancaAPI.csproj" />
+</Solution>
